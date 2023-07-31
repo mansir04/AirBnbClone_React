@@ -1,0 +1,44 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled files
+/build
+/dist
+
+# Cache and logs
+/.cache
+/.eslintcache
+*.log
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE-specific files (for Visual Studio Code)
+.vscode/
+*.code-workspace
+
+# Mac-specific files
+.DS_Store
+
+# Editor configuration
+.editorconfig
+
+# Dependency directories
+/jest-puppeteer
+/cypress
+
+# Coverage directory
+/coverage
+
+# Automatically generated documentation
+/docs
